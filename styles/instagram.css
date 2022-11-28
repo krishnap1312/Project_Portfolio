@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+
+
+.navbar{
+    margin-right: 10px;
+    padding: 20px;
+    background-color: #370617;
+}
+.navbar-icons li{
+    width: 30px;
+    height: 30px;
+    display: inline-flex;
+    float:right;
+    text-decoration: none;
+    margin-right:30px;
+    padding: 20px;
+    border: 3px solid grey;
+    border-radius: 50%;
+    color:wheat;
+}
+li{
+    
+    justify-content: center;
+}
+.navbar-icons li:hover{
+    border: 4px solid greenyellow;
+    border-radius: 50% 30% 50% 40%;
+    background-color:#0f1c1a;
+    transition-duration: .5s;
+    transform: scale(1.2);
+}
+
+.navbar-icons-logo {
+    width:250px;
+    height: 80px;
+}
+.navbar-icons-logo:hover{
+    transform: rotate(15deg);
+    transition-duration: 2s;
+}
+.navimage{
+    background-image: url(../assets/navimage.jpg);
+    width: auto;
+    height: 500px;
+}
+.navimage2{
+    background-image: url(../assets/manMain.jpg);
+    width: 50%;
+    height: 50%;
+}
+
+.navimage p{
+    font-weight: bolder;
+    font-family: "sofia", sans-serif;
+    color: wheat;
+    font-size: 40px;
+    margin-left: 250px;
+    
+}
+.navimage span{
+    margin-left: 50px;
+    margin-top: 750px;
+}
+
+.navimage span:hover{
+  color:aquamarine;
+  text-decoration: underline;   
+  transition-duration: 800ms;
+
+}
+
+.purple-div{
+    background-color: #E1D1FF;
+    width: 80vw;
+    height: 78vh;
+    margin-left: 7.5% ;  
+    display:inline-flex;  
+    
+}
+
+.wel{
+    background-color: #9574cd;
+    width: 40%;
+    margin-left: 10%;
+    margin-top: 8%;
+    height: 70%;
+    color: white;
+    
+}
+.wel>h1, p{
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    padding: 5%;
+    }
+.wel>h1{
+    padding-top: 25%;
+}
+.log{
+    background-color: white;
+    width: 50%;
+    margin-right: 10%;
+    margin-top: 8%;
+    height: 70%;
+    
+    
+}
+form{
+    padding: 10%;
+}
+input{
+    border: none;
+    margin: 10%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+input:focus{
+    background-color: #9574cd;
+    color: beige;
+    font-size: 20px;
+    font-weight: bold;
+}
+input:focus::placeholder{
+    color: aliceblue;
+}
+button{
+    float: right;
+    background-color: #9574cd;
+    color: #E1D1FF;
+    font-weight: bold;
+    border: 2px solid #9574cd;
+    border-radius: 15px;
+    width: 100px;
+}
+
+button:hover{
+    cursor: pointer;
+    width: 200px;
+    box-shadow: 0px 0px 40px red;
+    transition-duration: 1s;
+}
+body{
+    background-color: #251B37;
+}
+.div-col{
+    background-color: #182747;
+    width: 95%;
+    margin-left: 2%;
+}

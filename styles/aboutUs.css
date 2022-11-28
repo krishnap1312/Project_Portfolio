@@ -1,0 +1,136 @@
+.background{
+    background-color: #ffb4a2;
+    height: 700px;
+    
+}
+.main-div{
+    background-color: #023047;
+    width: 1200px;
+    height: 500px;
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    background-color:#000814;
+    padding: 50px;
+    margin: auto;
+    
+    
+}
+.navbar{
+    margin-right: 10px;
+    padding: 20px;
+    background-color: #370617;
+}
+.navbar-icons li{
+    width: 30px;
+    height: 30px;
+    display: inline-flex;
+    float:right;
+    text-decoration: none;
+    margin-right:30px;
+    padding: 20px;
+    border: 3px solid grey;
+    border-radius: 50%;
+    color:wheat;
+}
+li{
+    
+    justify-content: center;
+}
+.navbar-icons li:hover{
+    border: 4px solid greenyellow;
+    border-radius: 50% 30% 50% 40%;
+    background-color:#0f1c1a;
+    transition-duration: .5s;
+    transform: scale(1.2);
+}
+
+.navbar-icons-logo {
+    width:250px;
+    height: 80px;
+}
+.navbar-icons-logo:hover{
+    transform: rotate(15deg);
+    transition-duration: 2s;
+}
+.navimage{
+    background-image: url(../assets/navimage.jpg);
+    width: auto;
+    height: 500px;
+}
+.navimage2{
+    background-image: url(../assets/manMain.jpg);
+    width: 50%;
+    height: 50%;
+}
+
+.navimage p{
+    font-weight: bolder;
+    font-family: "sofia", sans-serif;
+    color: wheat;
+    font-size: 40px;
+    margin-left: 250px;
+    
+}
+.navimage span{
+    margin-left: 50px;
+    margin-top: 750px;
+}
+
+.navimage span:hover{
+  color:aquamarine;
+  text-decoration: underline;   
+  transition-duration: 800ms;
+
+}
+
+.inner-main{
+    width: 500px;
+    height: 300px;
+    background-color: #219ebc;
+    
+}
+
+.grap-des{
+    width: 50px;
+    height: 50px;
+    
+}
+
+
+.content-head{
+    color: white;
+    width: fit-content;
+    padding: 10px;
+}
+
+.content-head:hover{
+    transform: scale(1.3) ;
+    transition-duration: 3s;
+    transform-origin: bottom;
+    background-color: #ffb4a2;
+    color: black;
+    height: fit-content;
+    transition-timing-function: ease-in-out;
+    cursor: url(../assets/angle.png), default;
+}
+.content-he{
+    display: flex;
+}
+.para{
+    color: yellow;
+    width: 15px;
+}
+
+.head-de{
+    font-size: 40px;
+    text-decoration: overline;
+    padding-bottom: 50px;
+}
+.main-div>img:hover{
+    transform: rotate(10deg) scale(1.5) ;
+    transition-duration: 1s;
+    cursor: url(../assets/angle.png), default;
+    
+
+}
+

@@ -1,0 +1,136 @@
+.navbar{
+    margin-right: 10px;
+    padding: 20px;
+    background-color: #370617;
+}
+.navbar-icons li{
+    width: 30px;
+    height: 30px;
+    display: inline-flex;
+    float:right;
+    text-decoration: none;
+    margin-right:30px;
+    padding: 20px;
+    border: 3px solid grey;
+    border-radius: 50%;
+    color:wheat;
+}
+li{
+    
+    justify-content: center;
+}
+.navbar-icons li:hover{
+    border: 4px solid greenyellow;
+    border-radius: 50% 30% 50% 40%;
+    background-color:#0f1c1a;
+    transition-duration: .5s;
+    transform: scale(1.2);
+}
+
+.navbar-icons-logo {
+    width:250px;
+    height: 80px;
+}
+.navbar-icons-logo:hover{
+    transform: rotate(15deg);
+    transition-duration: 2s;
+}
+.navimage{
+    background-image: url(../assets/navimage.jpg);
+    width: auto;
+    height: 500px;
+}
+.navimage2{
+    background-image: url(../assets/manMain.jpg);
+    width: 50%;
+    height: 50%;
+}
+
+.navimage p{
+    font-weight: bolder;
+    font-family: "sofia", sans-serif;
+    color: wheat;
+    font-size: 40px;
+    margin-left: 250px;
+    
+}
+.navimage span{
+    margin-left: 50px;
+    margin-top: 750px;
+}
+
+.navimage span:hover{
+  color:aquamarine;
+  text-decoration: underline;   
+  transition-duration: 800ms;
+
+}
+
+.what-main{
+    background-image: url(../assets/whatsappChats.jpg);
+    height: 650px ;
+    width: 99.38%;
+ 
+}
+.what-inmain{
+    color: #E6F5FF;
+    text-align: center;
+    padding: 50px;
+ 
+}
+.whatImage{
+    width: 50px;
+    height: 50px;
+    padding: 50px;
+    
+}
+.j-btn{
+    
+    border: 3px solid #e85d04;
+    background-color: #03C4A1;
+    border-radius:  10% 25%;
+    width: fit-content;
+    height: 85px;
+    cursor: pointer;
+    font-size: 15px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.j-btn:hover{
+
+    cursor: pointer;
+    box-shadow: 0px 0px 50px green;
+    width: 150px;
+    height: 100px;
+    transition-duration: 2s;
+}
+.highlight{
+    font-size: 30px;
+    text-decoration:underline;
+    color: #00FFD1;
+}
+
+.chat{
+    position: absolute;
+    
+}
+
+.chat-img{
+    margin-left: 8%;
+    margin-top: 10%;
+    width: 50%;
+    height: 85%;
+}
+
+
+.div-im{
+    background-color: #03071e;
+    width: 40%;
+    height: 100%;
+    box-shadow: 5px 5px 15px green;
+}
+
+h3{
+    background-color: #03071e;
+}

@@ -1,0 +1,145 @@
+.navbar{
+    margin-right: 10px;
+    padding: 20px;
+    background-color: #370617;
+}
+.navbar-icons li{
+    width: 30px;
+    height: 30px;
+    display: inline-flex;
+    float:right;
+    text-decoration: none;
+    margin-right:30px;
+    padding: 20px;
+    border: 3px solid grey;
+    border-radius: 50%;
+    color:wheat;
+}
+li{
+    
+    justify-content: center;
+}
+.navbar-icons li:hover{
+    border: 4px solid greenyellow;
+    border-radius: 50% 30% 50% 40%;
+    background-color:#0f1c1a;
+    transition-duration: .5s;
+    transform: scale(1.2);
+}
+
+.navbar-icons-logo {
+    width:250px;
+    height: 80px;
+}
+.navbar-icons-logo:hover{
+    transform: rotate(15deg);
+    transition-duration: 2s;
+}
+.navimage{
+    background-image: url(../assets/navimage.jpg);
+    width: auto;
+    height: 500px;
+}
+.navimage2{
+    background-image: url(../assets/manMain.jpg);
+    width: 50%;
+    height: 50%;
+}
+
+.navimage p{
+    font-weight: bolder;
+    font-family: "sofia", sans-serif;
+    color: wheat;
+    font-size: 40px;
+    margin-left: 250px;
+    
+}
+.navimage span{
+    margin-left: 50px;
+    margin-top: 750px;
+}
+
+.navimage span:hover{
+  color:aquamarine;
+  text-decoration: underline;   
+  transition-duration: 800ms;
+
+}
+
+.form-main{
+    background-color: #c9184a;
+    width: 900px;
+    height: 600px;
+    display: inline-block;
+    margin-left: 15%;
+}
+form{
+    justify-content: center;
+    margin-left:40% ;
+    padding: 40px;
+    margin-top: 20% ;
+    
+}
+::placeholder{color: white;
+text-align: center;}
+
+::placeholder:focus{
+    text-align: left;
+
+    
+}
+.texts{
+    background-color: darkslategray;
+    color: white;
+    margin-top: 10px;
+    border: 3px double #fff0f3 ;
+    border-radius: 15px;
+    width: 350px;
+    padding: 10px;
+    margin-top: 30px;
+    
+}
+label,span{
+    color: azure;
+    margin: 0px;
+    padding: 10px;
+    font-size: 20px;
+    
+    
+}
+label{
+    font-size: 25px;
+    color: #150050;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 5px 5px 9px black;
+    text-transform: capitalize;
+    text-decoration-line: underline;
+    text-decoration-color:darkgray;
+    margin-left: 10%;
+}
+button{
+    border: 3px solid #ff7900;
+    border-radius: 60% 60% 60% 0% ;
+    padding: 10px;
+    margin: 10px;
+    background-color: #150050;
+    color: #FEC260;
+    font-weight: bold;
+    font-size: 20px;
+}
+button:hover{
+    cursor: pointer;
+    box-shadow: 3px 3px 8px white;
+}
+.Div-bg{
+    background-color: #0f1c1a;
+    margin-right: .62%;
+}
+
+video{
+ position: relative;
+float: right;
+margin-right: 10%;
+width: 15%;
+}
