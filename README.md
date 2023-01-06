@@ -31,9 +31,12 @@ cd Project_Portfolio
 
 # Credits
 **[Google Font](https://fonts.google.com/) for the font style.**
+
 **[Unsplash](https://unsplash.com/) for the images.**
-**[Flaticon](https://www.flaticon.com/) of the icons.
-**[Vs code](https://code.visualstudio.com/) for writing and compiling code.
+
+**[Flaticon](https://www.flaticon.com/) of the icons.**
+
+**[Vs code](https://code.visualstudio.com/) for writing and compiling code.**
 
 Contact
 If you have any questions or suggestions, feel free to contact me.
