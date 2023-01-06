@@ -28,6 +28,9 @@ cd Project_Portfolio
 
 **Open the index.html file in your preferred web browser.** (Google Chrome Recommended).
 
+### Landing page will look like this.
+![portfolio](https://user-images.githubusercontent.com/113228728/211045000-c44fe9a0-3268-4e81-a6c1-9a1db2622646.png)
+
 
 # Credits
 **[Google Font](https://fonts.google.com/) for the font style.**
