@@ -6,7 +6,7 @@ The website is built using **HTML, CSS**.
 In the repository, you will find all of the necessary files and directories for the website, including the HTML, CSS, and JavaScript files, as well as any images or other assets used on the site.
 
 # Features
-  ## this is a demo website UI 
+  
 1. Display of my personal information, skills, and work experience
 2. Portfolio section showcasing my past projects
 3. Contact form for visitors to get in touch with me
@@ -43,6 +43,6 @@ If you have any questions or suggestions, feel free to contact me.
 
 
 
-
+## this is a demo website UI details mentioned in here is not completely true
 
 
