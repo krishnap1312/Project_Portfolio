@@ -25,7 +25,7 @@ cd Project_Portfolio
 
 
 # Credits
-**[Google Font](https://fonts.google.com/) for the font style.
+**[Google Font](https://fonts.google.com/) for the font style.**
 Unsplash for the images.
 Flaticon of the icons.
 Vs code for writing and compiling code.
