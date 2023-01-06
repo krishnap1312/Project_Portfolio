@@ -25,6 +25,7 @@ git clone https://github.com/krishnap1312/Project_Portfolio.git
 ### Navigate to the repository directory:
 #### Copy code
 cd Project_Portfolio
+
 **Open the index.html file in your preferred web browser.**
 
 
