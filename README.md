@@ -38,8 +38,9 @@ cd Project_Portfolio
 
 **[Vs code](https://code.visualstudio.com/) for writing and compiling code.**
 
-Contact
-If you have any questions or suggestions, feel free to contact me.
+# Contact
+
+**If you have any questions or suggestions, feel free to contact me.**
 
 
 
