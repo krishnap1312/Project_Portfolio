@@ -23,7 +23,7 @@ git clone https://github.com/krishnap1312/Project_Portfolio.git
 ### Or you can download ZIP file of this repository.
 
 ### Navigate to the repository directory:
-#### Copy code
+#### Copy code to your local directory and open that directory.
 cd Project_Portfolio
 
 **Open the index.html file in your preferred web browser.**
