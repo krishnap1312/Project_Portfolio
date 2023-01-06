@@ -44,6 +44,6 @@ If you have any questions or suggestions, feel free to contact me.
 
 
 
-#### this is a demo website UI details mentioned in here is not completely true
+#### this is a demo website. Details mentioned in here is not completely true
 
 
